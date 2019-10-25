@@ -1,0 +1,19 @@
+.displayflexFDrowFCcentACcent {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-content: flex-start;
+}
+.top {
+  padding: 2em;
+  border-bottom: 2px dashed grey;
+}
+.Funbus {
+  display: flex;
+  padding-left: 30rem;
+}
+.navbar {
+  display: flex;
+  padding-left: 50rem;
+  width: 800px;
+}
